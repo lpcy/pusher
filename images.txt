@@ -6,3 +6,4 @@ couchdb:3.3.3
 flink:1.18.0-java17
 halohub/halo:2.12.1
 caddy:2.7.2-alpine
+jellyfin/jellyfin:10.9.7
